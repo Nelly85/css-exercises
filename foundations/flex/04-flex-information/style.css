@@ -11,7 +11,8 @@ img {
   font-weight: 900;
   display: flex;
   justify-content: center;
-  gap: 16px;
+  /* gap: 16px; */
+  margin-bottom: 32px;
 }
 
 ul {
